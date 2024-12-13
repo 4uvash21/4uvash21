@@ -21,4 +21,7 @@
 Если у вас есть вопросы, предложения или вы хотите обсудить проекты, свяжитесь со мной по адресу primett21@yandex.ru.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4uvash21&theme=tokyonight&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=4uvash21&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
